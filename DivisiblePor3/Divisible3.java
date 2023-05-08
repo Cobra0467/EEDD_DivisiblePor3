@@ -19,6 +19,12 @@ public class Divisible3 {
 
 	System.out.println("hola, mi pull request");
     System.out.println("hola y adios");
+    
+    System.out.println("hola, mi pull request");
+    System.out.println("hola y adios");
+    
+    System.out.println("hola, mi pull request");
+    System.out.println("hola y adios");
         return resultado;
     }
 }
